@@ -1,1 +1,38 @@
+body {
+    font-family: sans-serif;
+}
 
+h1 {
+    background-color: rgb(157, 91, 196);
+    padding-left: 20px;
+    padding-top: 19px;
+    padding-bottom:19px;
+    margin-top:-3px;
+    border-radius: 10px;
+    
+}
+
+img {
+    height: 179px;
+    border-radius: 10px;
+    
+}
+
+p, ul {
+    font-size: 20px;
+  
+}
+ 
+a {
+    color: rgb(0, 0, 0);
+}
+
+.v2 {
+    background-color: rgb(157, 91, 196);
+    width: 230px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
